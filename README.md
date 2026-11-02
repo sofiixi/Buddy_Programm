@@ -40,14 +40,14 @@ Die Punkte fürs Matching stehen oben in `index.html` unter `POINTS` und lassen 
 1. Auf GitHub im Repository: **Settings → Pages**.
 2. Bei **Source** „Deploy from a branch“ wählen, Branch **main** und Ordner **/ (root)**, dann **Save**.
 3. Nach ein bis zwei Minuten ist die Seite erreichbar unter
-   `https://sofiabusik.github.io/Buddy_Programm/`
+   `https://sofiixi.github.io/Buddy_Programm/`
    Jede Änderung, die auf `main` landet, wird automatisch veröffentlicht.
 
 ### Schritt 3: Supabase die Website-Adresse mitteilen
 
 **Authentication → URL Configuration:**
 
-- **Site URL:** `https://sofiabusik.github.io/Buddy_Programm/`
+- **Site URL:** `https://sofiixi.github.io/Buddy_Programm/`
 - **Redirect URLs:** dieselbe Adresse hinzufügen
 
 Sonst führen die Links aus den E-Mails nicht zurück zur Website.
